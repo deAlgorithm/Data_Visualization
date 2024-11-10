@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/06de145b-3515-4926-86e0-165e3ffb0bdf)
+
 **Project Description for E-commerce Sales Analysis**
 
 **Context**  
