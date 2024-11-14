@@ -18,4 +18,4 @@ This repository showcases various data visualization techniques using **Python**
 To get started, you'll need Python installed along with the necessary libraries. You can install them using the following command:
 
 ```bash
-pip install seaborn matplotlib pandas
+pip install seaborn matplotlib pandas numpy
