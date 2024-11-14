@@ -1,6 +1,6 @@
 # Data Visualization with Python
 
-This repository showcases various data visualization techniques using **Python**. The primary libraries used in this project are **Seaborn**, **Matplotlib**, and **Pandas**. The goal is to explore how to visualize different types of data effectively and to understand the insights these visualizations can provide.
+This repository showcases various data visualization techniques using **Python**. The primary libraries used in this project are **Seaborn**, **Matplotlib**, **Pandas** and **Numpy** . The goal is to explore how to visualize different types of data effectively and to understand the insights these visualizations can provide.
 
 ## Project Goals
 - Learn how to create a variety of plots and charts using **Seaborn** and **Matplotlib**.
